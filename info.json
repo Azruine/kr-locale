@@ -1,0 +1,13 @@
+{
+    "name": "kr-locale",
+    "version": "1.0.0",
+    "title": "Kr locale",
+    "author": "Azruine",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "1.1",
+    "date": "2024-05-24",
+    "description": "Korean Localization for modded factorio. 일부 모드의 한글화를 제공합니다.",
+    "dependencies": ["base"]
+  }
+  
