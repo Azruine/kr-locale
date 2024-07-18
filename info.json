@@ -1,16 +1,15 @@
 {
   "name": "kr-locale",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "title": "Kr locale",
   "author": "Azruine",
   "contact": "",
   "homepage": "",
   "factorio_version": "1.1",
-  "date": "2024-06-12",
+  "date": "2024-07-18",
   "description": "Korean Localization for modded factorio. 일부 모드의 한글화를 제공합니다.",
   "dependencies": [
     "base",
-    "(?) space-exploration >= 0.6.130",
-    "(?) Krastorio2 >= 1.3.11"
+    "? Krastorio2 >= 1.3.11"
   ]
 }
